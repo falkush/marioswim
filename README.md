@@ -13,7 +13,9 @@ Previous known best TAS 47"91 by Freezard: https://www.youtube.com/watch?v=rtpsQ
 Here's how I got a significant improvement over the previous TAS. During recovery, I use the pattern (swim)-(pass 8 frames)-(swim)-(pass 8 frames)-(swim)-(pass 32 frames). Only 1 of the 17 different phases for this pattern gives the correct synchronization that gives optimal healing, which is, gain 7 health every 17 frames. This particular pattern assures 2 of the 3 swim actions are bonified, where last TAS had 1 for 2, so basically 66% vs 50% for bonification rate. Here's a visual for the pattern:
 
 xxxxxxxxxxxxxxxxo
+
 xxxxxxxxoxxxxxxxx
+
 oxxxxxxxxxxxxxxxx
 
 Notice how this strategy only works for blocks of 17 frames, so we are kind of lucky how Nintendo chose their numbers. This strategy does not work for NTSC because healing is every 20 frames there, so Freezard tas remains the best in that version.

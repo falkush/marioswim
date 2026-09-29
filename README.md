@@ -18,7 +18,7 @@ xxxxxxxxoxxxxxxxx
 
 oxxxxxxxxxxxxxxxx
 
-Notice how this strategy only works for blocks of 17 frames, so we are kind of lucky how Nintendo chose their numbers. This strategy does not work for NTSC because healing is every 20 frames there, so Freezard tas remains the best in that version.
+Notice how this strategy would not work if the healing would be every 18 frames or anything higher, so we are kind of lucky how Nintendo chose their numbers. This strategy does not work for NTSC because healing is every 20 frames there, so Freezard tas remains the best in that version.
 
 For the rest not much thoughts went into it, I just copied what Freezard was doing. I believe there are many ideas worth exploring, but I'm not putting more time into it. I just wanted to share this neat little discovery. I've explored the ending a little and I managed to get a 47"08, I just forgot what I did, lol.
 
